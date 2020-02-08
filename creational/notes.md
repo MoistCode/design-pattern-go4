@@ -7,6 +7,8 @@
     * Class-based
     * Functions that instantiate new objects with methods and properties
     * Common in JS
-  * Factor
+  * Factory
+    * Class-based
+    * Interface that delegates responsibility of object instantiation to subclasses
   * Prototype
   * Singleton
