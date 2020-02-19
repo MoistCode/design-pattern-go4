@@ -10,5 +10,7 @@
   * Factory
     * Class-based
     * Interface that delegates responsibility of object instantiation to subclasses
+  * Abstract
   * Prototype
   * Singleton
+  * Builder

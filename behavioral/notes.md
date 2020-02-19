@@ -10,3 +10,4 @@
   * State
   * Strategy
   * Template
+  * Visitor
