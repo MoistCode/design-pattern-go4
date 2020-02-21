@@ -7,6 +7,8 @@
     * Class-based
     * Functions that instantiate new objects with methods and properties
     * Common in JS
+    * Create specific types of objects - preparation of object to be used
+    * using the `new` keyword will tel function to behave like a constructor and instatiate a new object with the members
   * Factory
     * Class-based
     * Makes instance of several derived classes based on interefaced data or events
