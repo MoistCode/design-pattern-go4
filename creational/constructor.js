@@ -42,7 +42,7 @@ defineProp(person, 'car', 'deloran');
 defineProp(person, 'dateOfBirth', '1981');
 defineProp(person, 'hasBeard', false);
 
-// Object.definedProperties
+// Defining multiple properties on an object
 Object.defineProperties(newObject, {
   "someKey": {
     value: "Hello World",
