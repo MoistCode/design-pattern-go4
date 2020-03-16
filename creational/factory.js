@@ -1,8 +1,9 @@
-const FOOTBALL = 'football';
-const BASKETBALL = 'basketball';
-const SOCCER = 'soccer';
-
 class BallFactory {
+
+  static FOOTBALL = 'football';
+  static BASKETBALL = 'basketball';
+  static SOCCER = 'soccer';
+
   constructor() {
     this.createBall = function(type) {
       let ball;
@@ -42,5 +43,5 @@ class Basketball {
 
 const factory = new BallFactory();
 
-const myFootball = factory.createBall(FOOTBALL);
-const myBasketball = factory.createBall(BASKETBALL);
+const myFootball = factory.createBall(BallFactory.FOOTBALL);
+const myBasketball = factory.createBall(BallFactory.BASKETBALL);
