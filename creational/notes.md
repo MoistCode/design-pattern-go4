@@ -12,7 +12,7 @@
   * Factory
     * Class-based
     * Makes instance of several derived classes based on interefaced data or events
-  * Abstract
+  * Abstract Factory
     * Creates an instance of several families of classes without detailing concrete classes
   * Prototype
     * A fully initialize instance used for copying or cloning
